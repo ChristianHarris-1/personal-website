@@ -3,7 +3,7 @@ import './App.css'
 
 function App() {
   return (
-    <p>React Portfolio Coming Soon . . .</p>
+    <h1>React Portfolio Coming Soon . . .</h1>
   )
 }
 
