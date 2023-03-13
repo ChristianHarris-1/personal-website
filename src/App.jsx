@@ -3,7 +3,7 @@ import './App.css'
 
 function App() {
   return (
-    null
+    <p>React Portfolio Coming Soon . . .</p>
   )
 }
 
